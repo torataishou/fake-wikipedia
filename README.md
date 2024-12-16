@@ -1,2 +1,2 @@
 # fake-wikipedia
-fake singlepaged wikipedia (for educational purposes only)
+fake single page wikipedia (for educational purposes only)
